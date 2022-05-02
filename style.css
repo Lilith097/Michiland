@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Water+Brush&display=swap');
+
 *{
     text-align: center;
+    font-family: 'Oleo Script', cursive;
 }
 
 body{
@@ -12,6 +15,8 @@ img{
 }
 
 p{
+    padding: 1%;
+    background-color: aquamarine;
     width: 30%;
     margin: auto;
 }
