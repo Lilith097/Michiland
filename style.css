@@ -19,13 +19,14 @@ body {
 
 .caja {
     padding: 1%;
-    background-color: aqua;
+    background-color: rgb(152, 86, 218);
     float: left;
     width: 20%;
     height: auto;
     margin: 1%;
     border: 2px solid black;
     max-width: max-content;
+    border-radius: 10px;
 }
 
 .caja p{
